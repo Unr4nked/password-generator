@@ -2,4 +2,4 @@
 
 ## A simple password generator.
 
-https://fcryptx.github.io/password-generator/
+https://Unr4nked.github.io/password-generator/
